@@ -1,0 +1,43 @@
+html {
+    font-family: 'Quicksand', sans-serif;
+    color: whitesmoke;
+    font-size: 14px;
+    background-color: darkslateblue;
+}
+
+.headerClass {
+    margin: 10 auto;
+    padding: 0 50px 50px 50px;
+    text-align: center;
+}
+
+.divClass {
+    margin: 25 200;
+}
+
+.p {
+    text-align: center;
+}
+
+.imgClassH {
+    width: 400px;
+    height: 550px;
+    display: block;
+    margin: 35px auto;
+}
+.imgClassW {
+    width: 750px;
+    height: 550px;
+    display: block;
+    margin: 35px auto;
+}
+
+.buttonClass {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 250px;
+    font-size: 64px;
+    background-color: cadetblue;
+    color: white;
+}
